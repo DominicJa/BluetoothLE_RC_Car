@@ -23,15 +23,25 @@ LED indicators - Onboard LEDs to indicate connectin status (blinking LED 2 for p
 🛠️ Technologies Used
 
 Software:
+
   -Nordic UART Service 
+  
   -nRF connect for Vscode (Software development kit)
+  
   -Bluetooth Low Energy 
+  
 Hardware:
+
   -nRF5340 DK (Microcontroller Unit)
+  
   -DRI0002 (Motor driver)
+  
   -Ovonic 2s LiPo Batteries 35C (2)
+  
   -Joysticks (2)
+  
   -DC Gearbox motor - TT Motor (4)
+  
 
 📄 Additional Resources
 
